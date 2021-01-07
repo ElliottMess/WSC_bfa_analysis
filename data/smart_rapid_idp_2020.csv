@@ -1,0 +1,13 @@
+admin2,admin3,cmr_u5,cmr_u5_ci_min,cmr_u5_ci_max,gam_WfH_zscore_n,gam_WfH_zscore,gam_WfH_zscore_ci_min,gam_WfH_zscore_ci_max,gas_WfH_zscore,gas_WfH_zscore_ci_min,gas_WfH_zscore_ci_max
+bam,bourzanga,0.2,0.1,0.4,619,13.6,10.5,17.4,4.4,2.8,6.8
+bam,kongoussi,0.2,0.1,0.3,463,8.6,5.7,12.9,0.9,0.3,2.7
+sanmatenga,barsalogho,0.4,0.3,0.5,508,9.6,7.2,12.9,1.4,0.6,2.9
+sanmatenga,kaya,0,NA,NA,489,9.4,6.8,12.9,2,1.2,3.6
+seno,dori,0.6,0.5,0.7,471,13,10.9,15.3,3.4,2.2,5.1
+soum,djibo,1.7,1.3,2.4,NA,NA,NA,NA,NA,NA,NA
+seno,gorgadji,1.7,1.2,2.5,281,13.2,8.8,19.2,2.5,0.8,7.1
+oudalan,gorom_gorom,0.4,0.2,0.5,534,18.4,14.2,23.4,6,4.3,8.3
+yatenga,ouahigouya,0,NA,NA,523,9.2,6.5,12.8,2.3,1.3,3.9
+gourma,fada_ngourma,0.9,0.6,1.5,513,12.5,9.2,16.7,2.3,1.4,4
+gourma,matiacoali,0,NA,NA,417,9.4,6.2,13.9,2.4,1,5.6
+sanmatenga,barsalogho,1.3,1.1,1.7,508,9.6,7.2,12.9,1.4,0.6,2.9

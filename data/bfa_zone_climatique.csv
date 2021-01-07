@@ -1,0 +1,85 @@
+Shape_Leng,Shape_Area,ADM2_FR,ADM2_PCODE,ADM2_REF,ADM2ALT1FR,ADM2ALT2FR,ADM1_FR,ADM1_PCODE,ADM0_FR,ADM0_PCODE,date,validOn,validTo,id,type_clima
+5.08060572541,0.37603953635,Bal?,BF4601,Bale,,,Boucle du Mouhoun,BF46,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.08247554442,0.33348285523,Bam,BF4901,,,,Centre-Nord,BF49,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+5.37418527303,0.4835194824,Banwa,BF4602,,,,Boucle du Mouhoun,BF46,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.879034643,0.30864053369,Baz?ga,BF5101,Bazega,,,Centre-Sud,BF51,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.3515163041,0.22739934162,Bougouriba,BF5701,,,,Sud-Ouest,BF57,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+5.54415254398,0.52646857154,Boulgou,BF4801,,,,Centre-Est,BF48,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+5.54415254398,0.52646857154,Boulgou,BF4801,,,,Centre-Est,BF48,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+4.20528686611,0.35472143584,Boulkiemd?,BF5001,Boulkiemde,,,Centre-Ouest,BF50,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+8.45663022126,1.26143312419,Como?,BF4701,Comoe,,,Cascades,BF47,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+3.69106435873,0.35740865029,Ganzourgou,BF5501,,,,Plateau-Central,BF55,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+6.64565291962,0.77043525196,Gnagna,BF5201,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+6.64565291962,0.77043525196,Gnagna,BF5201,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+7.92828632128,0.91148628061,Gourma,BF5202,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+7.48026827085,0.94321173302,Houet,BF5301,,,,Hauts-Bassins,BF53,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+7.48026827085,0.94321173302,Houet,BF5301,,,,Hauts-Bassins,BF53,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+3.52302810348,0.27250629124,Ioba,BF5702,,,,Sud-Ouest,BF57,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.52302810348,0.27250629124,Ioba,BF5702,,,,Sud-Ouest,BF57,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+3.28716824267,0.24830211969,Kadiogo,BF1300,,,,Centre,BF13,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+4.99390351331,0.69568620628,K?n?dougou,BF5302,Kenedougou,,,Hauts-Bassins,BF53,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+4.99390351331,0.69568620628,K?n?dougou,BF5302,Kenedougou,,,Hauts-Bassins,BF53,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+4.65656916863,0.42399176665,Komandjari,BF5203,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+4.65656916863,0.42399176665,Komandjari,BF5203,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+5.539765277,0.57884020519,Kompienga,BF5204,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+5.539765277,0.57884020519,Kompienga,BF5204,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+4.39550028031,0.61722796275,Kossi,BF4603,,,,Boucle du Mouhoun,BF46,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.60030709967,0.43941062026,Koulp?logo,BF4802,Koulpelogo,,,Centre-Est,BF48,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.60030709967,0.43941062026,Koulp?logo,BF4802,Koulpelogo,,,Centre-Est,BF48,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+3.23110068694,0.23544445349,Kourittenga,BF4803,,,,Centre-Est,BF48,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+2.38710329798,0.13388322877,Kourw?ogo,BF5502,Kourweogo,,,Plateau-Central,BF55,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.24999609269,0.24803678911,L?raba,BF4702,Leraba,,,Cascades,BF47,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+3.12999340113,0.31457115434,Loroum,BF5401,,,,Nord,BF54,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+5.76684319767,0.5840639348,Mouhoun,BF4604,,,,Boucle du Mouhoun,BF46,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.56052842802,0.32159959502,Nahouri,BF5102,,,,Centre-Sud,BF51,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.56052842802,0.32159959502,Nahouri,BF5102,,,,Centre-Sud,BF51,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+5.50988189109,0.53251030751,Namentenga,BF4902,,,,Centre-Nord,BF49,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+5.50988189109,0.53251030751,Namentenga,BF4902,,,,Centre-Nord,BF49,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+2.77008495461,0.30800820262,Nayala,BF4605,,,,Boucle du Mouhoun,BF46,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.04964010849,0.23297550156,Noumbiel,BF5703,,,,Sud-Ouest,BF57,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+3.46097110463,0.223167254,Oubritenga,BF5503,,,,Plateau-Central,BF55,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+4.41670422633,0.81476579188,Oudalan,BF5601,,,,Sahel,BF56,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+4.16236597956,0.33077444081,Passor?,BF5402,Passore,,,Nord,BF54,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+4.16236597956,0.33077444081,Passor?,BF5402,Passore,,,Nord,BF54,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+5.58686871385,0.6308412827,Poni,BF5704,,,,Sud-Ouest,BF57,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+5.11177977674,0.42455242976,Sangui?,BF5002,Sanguie,,,Centre-Ouest,BF50,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+5.58040718979,0.78060953806,Sanmatenga,BF4903,,,,Centre-Nord,BF49,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+5.58040718979,0.78060953806,Sanmatenga,BF4903,,,,Centre-Nord,BF49,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+4.4739710699,0.57497372729,S?no,BF5602,Seno,,,Sahel,BF56,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+5.98943443195,0.58829888811,Sissili,BF5003,,,,Centre-Ouest,BF50,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+5.98943443195,0.58829888811,Sissili,BF5003,,,,Centre-Ouest,BF50,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+5.05856595377,1.04463372427,Soum,BF5603,,,,Sahel,BF56,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+3.926332382,0.49787425259,Sourou,BF4606,,,,Boucle du Mouhoun,BF46,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+3.926332382,0.49787425259,Sourou,BF4606,,,,Boucle du Mouhoun,BF46,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+6.38639000558,1.27417099546,Tapoa,BF5205,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+6.38639000558,1.27417099546,Tapoa,BF5205,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+4.80105172606,0.45964098169,Tuy,BF5303,,,,Hauts-Bassins,BF53,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+4.80105172606,0.45964098169,Tuy,BF5303,,,,Hauts-Bassins,BF53,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+4.29143025909,0.52636240412,Yagha,BF5604,,,,Sahel,BF56,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+4.29143025909,0.52636240412,Yagha,BF5604,,,,Sahel,BF56,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+5.064260557,0.56452269378,Yatenga,BF5403,,,,Nord,BF54,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+5.064260557,0.56452269378,Yatenga,BF5403,,,,Nord,BF54,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.62328789385,0.43299657867,Ziro,BF5004,,,,Centre-Ouest,BF50,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+2.55203384495,0.16635637629,Zondoma,BF5404,,,,Nord,BF54,Burkina Faso,BF,2020/03/18,2020/03/23,,1,sahelien
+2.55203384495,0.16635637629,Zondoma,BF5404,,,,Nord,BF54,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.58689769117,0.33011403273,Zoundw?ogo,BF5103,Zoundweogo,,,Centre-Sud,BF51,Burkina Faso,BF,2020/03/18,2020/03/23,,2,soudano_sahelien
+3.58689769117,0.33011403273,Zoundw?ogo,BF5103,Zoundweogo,,,Centre-Sud,BF51,Burkina Faso,BF,2020/03/18,2020/03/23,,3,soudanais
+5.54415254398,0.52646857154,Boulgou,BF4801,,,,Centre-Est,BF48,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+6.64565291962,0.77043525196,Gnagna,BF5201,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+7.48026827085,0.94321173302,Houet,BF5301,,,,Hauts-Bassins,BF53,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+3.52302810348,0.27250629124,Ioba,BF5702,,,,Sud-Ouest,BF57,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+4.99390351331,0.69568620628,K?n?dougou,BF5302,Kenedougou,,,Hauts-Bassins,BF53,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+4.65656916863,0.42399176665,Komandjari,BF5203,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+5.539765277,0.57884020519,Kompienga,BF5204,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+3.60030709967,0.43941062026,Koulp?logo,BF4802,Koulpelogo,,,Centre-Est,BF48,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+3.56052842802,0.32159959502,Nahouri,BF5102,,,,Centre-Sud,BF51,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+5.50988189109,0.53251030751,Namentenga,BF4902,,,,Centre-Nord,BF49,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+5.58040718979,0.78060953806,Sanmatenga,BF4903,,,,Centre-Nord,BF49,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+5.98943443195,0.58829888811,Sissili,BF5003,,,,Centre-Ouest,BF50,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+3.926332382,0.49787425259,Sourou,BF4606,,,,Boucle du Mouhoun,BF46,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+6.38639000558,1.27417099546,Tapoa,BF5205,,,,Est,BF52,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+4.80105172606,0.45964098169,Tuy,BF5303,,,,Hauts-Bassins,BF53,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+4.29143025909,0.52636240412,Yagha,BF5604,,,,Sahel,BF56,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+5.064260557,0.56452269378,Yatenga,BF5403,,,,Nord,BF54,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+2.55203384495,0.16635637629,Zondoma,BF5404,,,,Nord,BF54,Burkina Faso,BF,2020/03/18,2020/03/23,,,
+3.58689769117,0.33011403273,Zoundw?ogo,BF5103,Zoundweogo,,,Centre-Sud,BF51,Burkina Faso,BF,2020/03/18,2020/03/23,,,

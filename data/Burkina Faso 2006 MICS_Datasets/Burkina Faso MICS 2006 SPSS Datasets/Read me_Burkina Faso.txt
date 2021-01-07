@@ -1,0 +1,31 @@
+In this compressed WINZIP folder you will find the MICS3 datasets for the selected 
+country. 
+
+Four SPSS data files were produced, corresponding to the four main units of analysis: 
+Households -  hh.sav 
+Household members - hl.sav
+Women in reproductive age (15-49 years of age) – wm.sav
+Mothers or primary caretakers of children under the age of five. – ch.sav
+
+
+The characteristics of the data such as sample size, weights, variable labels and 
+information on recoded or imputed variables can be found within the survey archive 
+which will be made available shortly on http://www.childinfo.org/mics3_surveys.html. 
+The survey archive will also contain the questionnaires and information on the sampling 
+and implementation of the survey.  
+
+Access Conditions: 
+
+Survey datasets are distributed at no cost for legitimate research, with the condition that 
+we receive a description of the research objectives that will be using the data prior to 
+authorizing their distribution.
+
+Copies of all reports and publications based on the requested data must be sent to:
+
+1) Tiendrebeogo Adama, MICS3 Coordinator, National Statistical Service, Email: adamatiendre@yahoo.fr, Tel: +226-70-35-90-77
+2) Kanu Amiso, National Statistical Service, Email: kahamissou@yahoo.fr, Tel: +226-70-26-94-67 
+3) Tamboura Lancina, M&E Officer, UNICEF Burkina Faso, Email: ltamboura@unicef.org, Tel (mobile): +226-78-22-80-98
+
+
+UPDATE [10 June 2015]: 
+The who_z.sav dataset is added to the WINZIP folder for the selected survey. The dataset contains the standard deviations of the WHO child growth definition for each under-5 child measured for height and weight. This file can be merged with the ch.sav file (Mothers or primary caretakers of children under the age of five).
